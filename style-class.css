@@ -1,5 +1,9 @@
-div {
-    height: 100vh;
+.tmnImg{
+    width: 40%;
+}
+
+.logo {
+    height: 20vh;
     display: flex;
     flex-direction: row;
     align-items: center;
