@@ -1,7 +1,28 @@
-div {
-    height: 100vh;
-    display: flex;
-    flex-direction: row;
+header{
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E4F7;
+    border-radius: 5px;
+}
+
+
+
+nav {
+    background-color: 465 23 #C1A4FF;
+    display: inline;
     align-items: center;
     justify-content: center;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+
+footer{
+    background-color: #8983FF;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
 }

@@ -1,11 +1,68 @@
-.tmnImg{
-    width: 40%;
+.logo { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
 }
 
-.logo {
-    height: 20vh;
+.barra-header{
+    display: flex;
+    flex-direction: row;
+    background-color: #C1A4FF;
+    border-radius: 5px;
+    list-style: none;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-inline: 10px;
+    margin-bottom: 5px;
+}
+
+.header-lista{
+    all: unset;
+    background-color: #E5DCFF;
+    border-radius: 5px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem{
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    margin: 10px;
+}
+
+.titulo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;  
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    background-color: #251E9E;
+    color: #8983FF;
+    align-items: center;
+}
+
+
+.bloco-serv{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    align-items: center;
+    margin-bottom: 5px;
+
+}
+
+
+.service{
+    padding: 5px;
 }
