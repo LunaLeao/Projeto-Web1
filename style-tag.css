@@ -1,9 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
 header{
     justify-content: center;
     align-items: center;
     background-color: #E5E4F7;
     border-radius: 5px;
 }
+
+
 
 
 
@@ -17,6 +23,7 @@ nav {
 
 a {
     text-decoration: none;
+    color: #000000;
 }
 
 
