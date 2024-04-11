@@ -5,7 +5,7 @@
 header{
     justify-content: center;
     align-items: center;
-    background-color: #E5E4F7;
+    background-color: #d6c5ff;
     border-radius: 5px;
 }
 
@@ -29,7 +29,5 @@ a {
 
 footer{
     background-color: #8983FF;
-    justify-content: center;
-    align-items: center;
     border-radius: 5px;
 }
