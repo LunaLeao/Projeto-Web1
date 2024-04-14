@@ -1,1 +1,25 @@
+#sec-1{
+    grid-area: "secao-1";
+    grid-column: 100px;
+}
 
+
+#sec-2{
+    grid-area: "secao-2";
+    grid-column: 100px;
+}
+
+#sec-3{
+    grid-area: "secao-3";
+    grid-column: 100px;
+}
+
+#sec-4{
+    grid-area: "secao-4";
+    grid-column: 100px;
+}
+
+#sec-5{
+    grid-area: "secao-5";
+    grid-column: 100px;
+}
